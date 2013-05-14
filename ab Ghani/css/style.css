@@ -3,16 +3,21 @@
 body
 {
 	width: 800px;
-	height: 600px; 
-	
+	height: 600px;
+	margin: auto;
+	position: relative;	
 	
 }
 
 #portail
 {
-	width: 350px;
+	position: absolute;
+	width: 800px;
 	height: 350px;
-	background-color: rgba(0,0,0, 0.5);
-	border: 2px red solid;
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 2px solid red;
+	top: 67px;
+	left: 0;
+	
 	
 }
