@@ -1,7 +1,6 @@
 var locomotive = require('locomotive')
   , bootable = require('bootable')
-  , jade = require('jade')
-  ;
+  , jade = require('jade');
 
 // Create a new application and initialize it with *required* support for
 // controllers and views.  Move (or remove) these lines at your own peril.
